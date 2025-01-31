@@ -1,0 +1,12 @@
+#Python have a directory called "Python #Package Index or Pypi". In this directory we have thousand of modules. People make projects & they have their directory, so via Pypi we can directly use them in our program.
+
+#go to pypi.org & get Package of others. (like sending sms, search for sms)
+
+#check out 'yelp.com'
+
+#pip--for installing or uninstalling  python packages
+
+#to install & uninstall package use syntax
+-- pip install package_name
+-- pip uninstall package_name
+

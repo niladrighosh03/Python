@@ -1,0 +1,8 @@
+'''
+Modules in python is basically a file with some python code. We use modules to organize our code into multiple files
+'''
+
+'''
+So instead of writing all our code & allthe function and classes in abc.py file we want to break up our code into multiple files. We refer each file as a 'MODULE'.  
+'''
+

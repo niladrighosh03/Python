@@ -1,0 +1,3 @@
+#package is a container of multiple modeules. Basically a package is a directory or a folder.
+
+#when python sees the file '__init__.py in a directory, python treat that directory aa a package.
